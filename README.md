@@ -1,4 +1,4 @@
-# Assignment 3 - Spatial Vector data
+# Assignment 3 - Spatial Vector Data Using Open Source Python
 
 This repository contains the notebooks for this week's assignment.
 Complete the homework in each `.ipynb` notebook, commit your work, and
